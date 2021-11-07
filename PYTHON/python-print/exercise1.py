@@ -1,0 +1,12 @@
+print("Qual o dia de hoje?")
+date = input()
+print("Calorias consumidas no café da manhã?")
+breakfast = int(input())
+print("Calorias consumidas no almoço?")
+lunch = int(input())
+print("Calorias consumidas no jantar?")
+dinner = int(input())
+print("Calorias consumidas no lanhce?")
+snack = int(input())
+total = breakfast + lunch + dinner + snack
+print("Foram consumidas " + str(total) + " calorias no dia " + date + " de março de 2021.")

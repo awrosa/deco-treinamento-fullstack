@@ -1,0 +1,10 @@
+# print("Hello World")
+
+print("What is your name?")
+name=input()
+print("Hello, " + name)
+print("Conhecimentos-chave que você deve adquirir em Python:")
+print("1. Aprender para que servem muitas – ou todas – as palavras-chave e os operadores.")
+print("2. Aprender a escrever códigos que usam as palavras-chave e os operadores corretamente (isto é, conforme a sintaxe deles).")
+print("3. Familiarizar-se com algumas das funções e dos módulos mais importantes da biblioteca padrão do Python e aprender a usar funções e módulos de bibliotecas de terceiros.")
+print("4. Aprender a estruturar seu código para criar programas cada vez mais interessantes e complexos.")
